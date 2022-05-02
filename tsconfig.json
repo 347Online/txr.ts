@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "noImplicitAny": true,
+    "removeComments": true
+  },
+  "include": ["./**/*"],
+  "exclude": ["node_modules"]
+}
